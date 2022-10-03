@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lunar Leprechauns</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">620131442983317</string>
+    <string name="fb_login_protocol_scheme">fb620131442983317</string>
+
+</resources>
